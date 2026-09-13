@@ -1,0 +1,128 @@
+{
+  "usuarios": {
+    "09048861667": {
+      "cpf_formatado": "090.488.616-67",
+      "livros": [
+        {
+          "titulo": "Meu Querido Jhon",
+          "data_emprestimo": "08/03/2025 11:43"
+        }
+      ],
+      "livros doados": 0,
+      "divida": 0.0,
+      "creditos": 0.0,
+      "nome": "Luana Carnio"
+    }
+  },
+  "livros": [
+    {
+      "categoria": "Filosofia",
+      "itens": [
+        "\u00c9tica a Nic\u00f4maco",
+        "O Livro da Filosofia",
+        "Os Pensadores: Descartes",
+        "Sobre a Brevidade da Vida",
+        "Cartas a Malcolm",
+        "A Rep\u00fablica",
+        "Assim Falou Zaratustra",
+        "O Mundo de Sofia",
+        "Cr\u00edtica da Raz\u00e3o Pura",
+        "O Anticristo",
+        "Medita\u00e7\u00f5es",
+        "Al\u00e9m do Bem e do Mal",
+        "O Pr\u00edncipe",
+        "A Arte da Guerra",
+        "O Contrato Social",
+        "Leviat\u00e3",
+        "Ser e Tempo",
+        "Fenomenologia do Esp\u00edrito",
+        "O Segundo Sexo",
+        "O Mito de S\u00edsifo"
+      ]
+    },
+    {
+      "categoria": "Hist\u00f3ria",
+      "itens": [
+        "A Hist\u00f3ria da Humanidade",
+        "Hist\u00f3ria do Brasil",
+        "Hist\u00f3ria da Segunda Guerra Mundial",
+        "Hist\u00f3ria da Arte",
+        "Hist\u00f3ria da Filosofia",
+        "Hist\u00f3ria do Pensamento Ocidental",
+        "Hist\u00f3ria da Ci\u00eancia",
+        "Hist\u00f3ria das Religi\u00f5es",
+        "Hist\u00f3ria da Am\u00e9rica Latina",
+        "Hist\u00f3ria da \u00c1frica",
+        "Hist\u00f3ria da Europa",
+        "Hist\u00f3ria da \u00c1sia",
+        "Hist\u00f3ria da Oceania",
+        "Hist\u00f3ria da Idade M\u00e9dia",
+        "Hist\u00f3ria da Idade Moderna",
+        "Hist\u00f3ria da Idade Contempor\u00e2nea",
+        "Hist\u00f3ria das Civiliza\u00e7\u00f5es Antigas",
+        "Hist\u00f3ria das Grandes Navega\u00e7\u00f5es",
+        "Hist\u00f3ria das Revolu\u00e7\u00f5es Industriais",
+        "Hist\u00f3ria das Guerras Mundiais",
+        "Africa e Africanos "
+      ]
+    },
+    {
+      "categoria": "Mang\u00e1s e Quadrinhos",
+      "itens": [
+        "Naruto",
+        "One piece",
+        "Dragon ball",
+        "Bleach",
+        "Death note",
+        "Tokyo ghoul",
+        "My hero academia",
+        "Attack on titan",
+        "Black clover",
+        "Demon slayer",
+        "Jujutsu kaisen",
+        "Dr. stone",
+        "The promised neverland",
+        "Beastars"
+      ]
+    },
+    {
+      "categoria": "Fic\u00e7\u00e3o",
+      "itens": [
+        "1984",
+        "Brave New World",
+        "Fahrenheit 451",
+        "The Handmaid's Tale",
+        "Dune",
+        "The Hobbit",
+        "The Lord of the Rings",
+        "Harry Potter and the Sorcerer's Stone",
+        "The Hunger Games",
+        "O Jogo do Exterminador",
+        "Perdido em Marte",
+        "Jogador N\u00famero 1",
+        "Neuromancer",
+        "Nevasca",
+        "A M\u00e3o Esquerda da Escurid\u00e3o",
+        "Funda\u00e7\u00e3o",
+        "Hyperion",
+        "Carbono Alterado",
+        "A Expans\u00e3o"
+      ]
+    },
+    {
+      "categoria": "Filosofia crist\u00e3",
+      "itens": []
+    },
+    {
+      "categoria": "Aventura",
+      "itens": [
+        "Indiana Jones"
+      ]
+    },
+    {
+      "categoria": "Romance",
+      "itens": []
+    }
+  ],
+  "senha": "admin"
+}
